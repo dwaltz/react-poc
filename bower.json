@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "experimenting with react.js",
   "private": true,
-  "location": "",
+  "location": "https://github.com/dwaltz/react-poc.git",
   "authors": [
     "David Waltz <dwaltz37@gmail.com>"
   ],
