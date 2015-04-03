@@ -1,0 +1,21 @@
+{
+  "name": "react-poc",
+  "version": "0.1.0",
+  "description": "experimenting with react.js",
+  "private": true,
+  "location": "",
+  "authors": [
+    "David Waltz <dwaltz37@gmail.com>"
+  ],
+  "dependencies": {
+    "requirejs": "requirejs#2.1.9",
+    "jquery": "jquery#1.10.2",
+    "backbone": "backbone#1.1.0",
+    "underscore": "underscore#1.5.2",
+    "json2": "#*",
+    "bootstrap": "bootstrap#3.2.0",
+    "qunit": "~1.14.0",
+    "fuelux": "~3.6.4",
+    "react": "~0.13.1"
+  }
+}

@@ -1,0 +1,13 @@
+#node modules
+node_modules
+
+#bower components
+.bower_components/
+
+# webstorm files
+.idea/
+
+# optimized files
+.optimized/
+
+.config/runtime.json
